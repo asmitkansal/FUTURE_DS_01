@@ -6,3 +6,5 @@ Developed an interactive dashboard analyzing sales performance from 2009 to 2010
 # - Top-Selling Products Bar Chart: Highlights top performers by unit sales, led by the White Hanging Heart T-Light Holder at 3.2K units.
 # - Revenue Breakdown Pie Chart: Pinpoints products driving the highest revenue, enabling targeted inventory and marketing decisions.
 Applied advanced DAX, visual storytelling, and design aesthetics to enhance business decision-making.
+
+Link - https://www.linkedin.com/posts/asmit-kansal-5628a7252_dataanalytics-datacleaning-dataprofiling-activity-7349844817205477376-Jcrb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5snFoB891Bp6NpF35y47y5qZph4fh1bmo
